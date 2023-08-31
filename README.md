@@ -25,3 +25,6 @@ Preprocessed Images
 
 ## Model - MaxViT
 <img src="./pic/maxvit.png">
+
+## Model - Efficientnet_b7
+<img src="./pic/Efficientnet_b7.png">

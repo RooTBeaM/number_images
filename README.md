@@ -16,7 +16,7 @@ Preprocessed Images
 
 <img src="./pic/preprocessed_train.png">
 
-## test Images
+## Test Images
 <img src="./pic/raw_test.png">
 
 Preprocessed Images
